@@ -29,7 +29,7 @@ A simple console-based Task Management System implemented in Python. This projec
 
 3. Run the script:
     ```sh
-    python task_manager.py
+    python app.py
     ```
 
 ## Usage
