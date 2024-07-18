@@ -56,7 +56,7 @@ A simple console-based Task Management System implemented in Python. This projec
 
 ## File Structure
 
-- `task_manager.py`: The main script containing the Task Management System code.
+- `app.py`: The main script containing the Task Management System code.
 - `tasks.txt`: The file where tasks are saved. This file is created automatically when you run the script for the first time.
 
 ## Example
