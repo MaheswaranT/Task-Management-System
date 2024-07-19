@@ -62,8 +62,8 @@ A simple console-based Task Management System implemented in Python. This projec
 ## Example
 
 Here’s an example of how the Task Management System looks in action:
-
-    ```
+    
+   ```
     ========================================
      Task Management System 
     ========================================
@@ -83,11 +83,8 @@ Here’s an example of how the Task Management System looks in action:
     Task added successfully.
     
     Press Enter to return to the main menu...
-    ```
+   ```
 
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any features, bug fixes, or enhancements.
-
-
-
